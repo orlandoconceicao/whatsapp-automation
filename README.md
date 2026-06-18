@@ -86,3 +86,12 @@ python main.py
 - Z-API (WhatsApp API)
 - Requests
 - Python-dotenv
+
+---
+
+**Autor**
+Orlando Conceição
+
+Back-End Developer
+
+Email: orlandoconceicao94@gmail.com
