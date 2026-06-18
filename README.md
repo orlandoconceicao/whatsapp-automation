@@ -89,7 +89,8 @@ python main.py
 
 ---
 
-**Autor**
+**Autor:**
+
 Orlando Conceição
 
 Back-End Developer
