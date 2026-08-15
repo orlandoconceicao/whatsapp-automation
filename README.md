@@ -89,10 +89,10 @@ python main.py
 
 ---
 
-**Autor:**
+## Autor
 
-Orlando Conceição
+**Orlando Conceição Vilhalba de Almeida**
 
-Back-End Developer
+Desenvolvedor Backend em formação, com foco em Python, APIs REST e integrações entre serviços e bancos de dados.
 
-Email: orlandoconceicao94@gmail.com
+GitHub: [orlandoconceicao](https://github.com/orlandoconceicao)
